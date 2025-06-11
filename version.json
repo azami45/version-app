@@ -1,6 +1,6 @@
 {
   "latest_version": "1.6.0",
-  "has_update": true, 
+  "has_update": false, 
   "message": "إصلاح أخطاء مهمة + مزايا جديدة!",
-  "force_update": true
+  "force_update": false
 }
