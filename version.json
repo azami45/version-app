@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.7.0",  // ← غير هذا فقط عند النشر
-  "has_update": true,         // ← سيتم تجاهله
+  "latest_version": "1.7.0",
+  "has_update": true,
   "message": "إصلاح أخطاء مهمة + مزايا جديدة!",
   "force_update": true
 }
